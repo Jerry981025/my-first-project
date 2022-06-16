@@ -1,4 +1,4 @@
-package test;
+package App;
 
 public class TestApp {
 
